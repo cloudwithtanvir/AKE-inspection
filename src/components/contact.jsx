@@ -117,7 +117,7 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-            Copyright © 2020. All right reserved by AKE Marine.
+            Copyright © 2020. All right reserved by AKE MARINE BD LTD.
             </p>
           </div>
         </div>
